@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
 
 Sitemap: https://bleachvsnaruto4-0.github.io/sitemap.xml
